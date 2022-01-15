@@ -3,6 +3,10 @@ The Whole story could be different if we had chosen CDMA2000 besides WCDMA ... a
 I just read books and keep looking to the measuring equipments... diagrams and constelations....
 
 WifiMETRO U-MIMO
+
 5 G MIMO LFI
+
 3 G OFDM FROM 1XRTT AND EVDO
+
 4G  SUPER LTE HPDP 7
+
